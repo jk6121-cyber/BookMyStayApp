@@ -71,5 +71,6 @@ public class BookMyStayApp {
         // Display updated inventory
         System.out.println("\nUpdated Inventory:");
         inventory.displayInventory();
+
     }
 }
