@@ -75,6 +75,7 @@ public class BookMyStayApp {
         System.out.println();
 
         System.out.println("Double Room Details:");
+
         doubleRoom.displayDetails();
         System.out.println("Available Rooms: " + doubleAvailability);
         System.out.println();
